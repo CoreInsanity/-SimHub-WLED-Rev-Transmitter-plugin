@@ -1,0 +1,6 @@
+C:\Program Files (x86)\SimHub\PluginSdk\User.PluginSdkDemo\obj\Debug\SimHub.WledRevTransmitter.csprojAssemblyReference.cache
+C:\Program Files (x86)\SimHub\PluginSdk\User.PluginSdkDemo\obj\Debug\SimHub.WledRevTransmitter.csproj.CopyComplete
+C:\Program Files (x86)\SimHub\PluginSdk\User.PluginSdkDemo\obj\Debug\SimHub.WledRevTransmitter.dll
+C:\Program Files (x86)\SimHub\PluginSdk\User.PluginSdkDemo\obj\Debug\SimHub.WledRevTransmitter.pdb
+C:\Program Files (x86)\SimHub\SimHub.WledRevTransmitter.dll
+C:\Program Files (x86)\SimHub\SimHub.WledRevTransmitter.pdb
